@@ -31,7 +31,7 @@ def index():
             version="1.0",
             # paths=url_for("list_accounts", _external=True),
         ),
-        status.HTTP_200_OK, 
+        status.HTTP_200_OK,
     )
 
 
