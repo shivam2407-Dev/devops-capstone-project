@@ -26,8 +26,8 @@ jobs:
           --health-timeout 5s
           --health-retries 5
 
-      steps:
-        - name: Checkou
+    steps:
+        - name: Checkout
           uses: actions/checkout@v2
 
         - name: Install dependencies
