@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/shivam2407-Dev/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This project is part of the IBM Devops and Software Engineering Professional Certificate.
 It implements a RESTful microservice for managing customer accounts using Flask and PostgreSQL.
 The project follows Devops best practices including Test Driven Development (TDD), containerization with Docker, and deployment using Kubernetes.
