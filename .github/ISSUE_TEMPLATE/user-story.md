@@ -1,10 +1,3 @@
----
-name: User Story
-description: Template for account microservice stories
-title: 'USER STORY: '
-labels: enhancement
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
